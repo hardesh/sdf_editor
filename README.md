@@ -2,7 +2,9 @@
 
 This package implements a RUST based SDF editor. 
 
-Initially this package will only support loading `.STL` files. Over the time I plan to support `.dae` format as well. 
+Initially this package will only support loading `.STL` files. Over the time I plan to support `.dae` format as well. Later might also have to look at generating a Unity Scene directly from this utility. 
+
+
 
 The SDF file then can be loaded in Gazebo or Ignition simulator!
 
@@ -33,5 +35,9 @@ Unity:
 3. Formant's Blog post on Unity: https://formant.io/news-and-blog/2019/10/09/analytics/robots-are-hard-game-engines-are-not-why-we-built-our-own-simulator-using-unity/
 4. Unity Robotics Hub: https://forum.unity.com/forums/robotics.623/ 
 5. 
+
+
+Solidworks To URDF:
+1. WPI Doc: https://blogs.solidworks.com/teacher/wp-content/uploads/sites/3/WPI-Robotics-SolidWorks-to-Gazebo.pdf
 
 
