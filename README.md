@@ -14,6 +14,7 @@ The SDF file then can be loaded in Gazebo or Ignition simulator!
 ## Notes:
 Workflow can be found in [this PDF](./workflow.pdf)
 
+Ref [7] has a `rust` based URDF Visualiser!
 
 Ref [5] directly describes URDF in python. We don't need a separate XML based URDF file which
 can be loaded in Gazebo or Ignition. 
@@ -27,6 +28,10 @@ Making custom URDF using a GUI:
 3. kiss3d (A simple graphics engine in Rust): https://rustrepo.com/repo/sebcrozet-kiss3d-rust-graphics 
 4. Node Graph GUI: https://github.com/setzer22/egui_node_graph
 5. URDF directly in Python: https://github.com/hauptmech/odio_urdf 
+6. Open Rust Robotics: https://github.com/openrr 
+7. URDF Visualiser in Rust: https://github.com/openrr/urdf-viz 
+8.
+
 
 
 Unity:
