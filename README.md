@@ -30,7 +30,8 @@ Making custom URDF using a GUI:
 5. URDF directly in Python: https://github.com/hauptmech/odio_urdf 
 6. Open Rust Robotics: https://github.com/openrr 
 7. URDF Visualiser in Rust: https://github.com/openrr/urdf-viz 
-8.
+8. SDFormat Rust Parser: https://github.com/azm-project/sdformat-rs 
+9. 
 
 
 
